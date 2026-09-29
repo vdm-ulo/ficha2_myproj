@@ -1,1 +1,2 @@
 Fiz alteracoes neste ficheiro!
+Alteracoes efetuadas no branch NovaFeature
